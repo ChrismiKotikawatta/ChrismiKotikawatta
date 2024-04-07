@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently studying in **University of Westminster**
 
-- 🌱 I’m currently learning **React,Wordpress,Bootstrap**
+- 🌱 I’m currently learning **React,WordPress,Bootstrap**
+  
+-  My Portfolio - "chrismikotikawatta.github.io/Portfolio/"
 
-- 💬 Ask me about **HTML,CSS, JS, JAVA,PHP,PYTHON, MySQL**
+- 💬 Ask me about **HTML, CSS, JS, JAVA, PHP,PYTHON, MySQL**
 
 - 📫 How to reach me **chrismikotikawatta@gmail.com**
 
